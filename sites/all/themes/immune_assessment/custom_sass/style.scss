@@ -10,6 +10,7 @@ $orange: #DB7E4D;
 $dkblue: #195C95;
 $dkblue-muted: #196595;
 $blue: #236E9D;
+$bright-blue: #4fa0d4;
 $ltblue: #005da8;
 $tigl-header-left: #b7dbef;
 $tigl-header-right: #cfe8f9;
@@ -111,8 +112,9 @@ h2 {
 }
 
 a {
-  color: $link-color;
-  font-weight: 700;
+  color: $bright-blue;
+  font-family: $alegreya-med;
+  text-decoration: underline;
 }
 
 a:hover,
@@ -199,6 +201,8 @@ header {
   color: $baby-blue;
   font-size: 1.3em;
   font-weight: normal;
+  font-family: $sinkin-reg;
+  text-decoration: none;
 }
 
 .navbar-nav > li {
@@ -220,7 +224,7 @@ header {
 }
 
 .nav-area {
-  background: $blue;
+  background: $dkblue;
   font-family: $sinkin-reg;
   //@include border(top);
 }
