@@ -88,7 +88,7 @@
       <?php endif; ?>
 			<div class="col-sm-4 col-sm-offset-2">
 				<a class="dfci-head popup pull-right" href="http://www.dana-farber.org">
-        <img class="img-responsive" alt="Dana-Farber Cancer Institute logo" src="<?php print $base_path . 'sites/default/files/dfci.png'; ?>" />
+        <img class="img-responsive" alt="Dana-Farber Cancer Institute logo" src="<?php print $base_path . 'sites/default/files/dfci_header.png'; ?>" />
 				</a>
 			</div>
 		</div>
