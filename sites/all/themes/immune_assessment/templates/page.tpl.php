@@ -77,7 +77,7 @@
 //$real_path = drupal_realpath('public://');
 ?>
 <header class="header-ht">
-	<div class="header-ht dk-yellow absolute header-left">
+	<div class="header-ht tigl-header-left absolute header-left">
 	</div>
   <div class="container">
 		<div class="header-bkgrd header-ht row">
@@ -93,7 +93,7 @@
 			</div>
 		</div>
   </div><!--container-->
-	<div class="header-ht lt-yellow absolute header-right">
+	<div class="header-ht tigl-header-right absolute header-right">
 	</div>
 </header>
 	<div class="nav-area">
